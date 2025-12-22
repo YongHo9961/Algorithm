@@ -30,6 +30,7 @@ int main() {
 
 	}
 
+
 	cout << num1 << " - " << num2 << " = " << solution(num1, num2) << endl;
 
 	return 0;
