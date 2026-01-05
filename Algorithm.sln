@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata9", "CodeKata9\Code
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata10", "CodeKata10\CodeKata10.vcxproj", "{007EE2DF-CBC9-48A4-9C77-08AA5180A05C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata11", "CodeKata11\CodeKata11.vcxproj", "{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -111,6 +113,14 @@ Global
 		{007EE2DF-CBC9-48A4-9C77-08AA5180A05C}.Release|x64.Build.0 = Release|x64
 		{007EE2DF-CBC9-48A4-9C77-08AA5180A05C}.Release|x86.ActiveCfg = Release|Win32
 		{007EE2DF-CBC9-48A4-9C77-08AA5180A05C}.Release|x86.Build.0 = Release|Win32
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Debug|x64.ActiveCfg = Debug|x64
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Debug|x64.Build.0 = Debug|x64
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Debug|x86.ActiveCfg = Debug|Win32
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Debug|x86.Build.0 = Debug|Win32
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Release|x64.ActiveCfg = Release|x64
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Release|x64.Build.0 = Release|x64
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Release|x86.ActiveCfg = Release|Win32
+		{F98CB0A4-B1FB-49FD-9AFB-D1201CF42101}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
