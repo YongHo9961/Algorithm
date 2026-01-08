@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata12", "CodeKata12\Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata13", "CodeKata13\CodeKata13.vcxproj", "{499E242E-4991-4ADB-A15B-D513408DD335}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata14", "CodeKata14\CodeKata14.vcxproj", "{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{499E242E-4991-4ADB-A15B-D513408DD335}.Release|x64.Build.0 = Release|x64
 		{499E242E-4991-4ADB-A15B-D513408DD335}.Release|x86.ActiveCfg = Release|Win32
 		{499E242E-4991-4ADB-A15B-D513408DD335}.Release|x86.Build.0 = Release|Win32
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Debug|x64.ActiveCfg = Debug|x64
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Debug|x64.Build.0 = Debug|x64
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Debug|x86.ActiveCfg = Debug|Win32
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Debug|x86.Build.0 = Debug|Win32
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x64.ActiveCfg = Release|x64
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x64.Build.0 = Release|x64
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x86.ActiveCfg = Release|Win32
+		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
