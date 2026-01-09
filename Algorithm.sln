@@ -31,6 +31,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata13", "CodeKata13\Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata14", "CodeKata14\CodeKata14.vcxproj", "{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata15", "CodeKata15\CodeKata15.vcxproj", "{0C64BECF-7808-4B10-ACAD-63E7446E17B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -151,6 +153,14 @@ Global
 		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x64.Build.0 = Release|x64
 		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x86.ActiveCfg = Release|Win32
 		{491502B6-4C38-4DFC-8264-9B02A0D7FEB2}.Release|x86.Build.0 = Release|Win32
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Debug|x64.ActiveCfg = Debug|x64
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Debug|x64.Build.0 = Debug|x64
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Debug|x86.Build.0 = Debug|Win32
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Release|x64.ActiveCfg = Release|x64
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Release|x64.Build.0 = Release|x64
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Release|x86.ActiveCfg = Release|Win32
+		{0C64BECF-7808-4B10-ACAD-63E7446E17B9}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
