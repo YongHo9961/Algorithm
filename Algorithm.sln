@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata18", "CodeKata18\Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata19", "CodeKata19\CodeKata19.vcxproj", "{7E92923D-D551-4551-BA02-2246E99012F0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata20", "CodeKata20\CodeKata20.vcxproj", "{682F1828-109C-4E25-9D0F-AD43EE0F49DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{7E92923D-D551-4551-BA02-2246E99012F0}.Release|x64.Build.0 = Release|x64
 		{7E92923D-D551-4551-BA02-2246E99012F0}.Release|x86.ActiveCfg = Release|Win32
 		{7E92923D-D551-4551-BA02-2246E99012F0}.Release|x86.Build.0 = Release|Win32
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Debug|x64.ActiveCfg = Debug|x64
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Debug|x64.Build.0 = Debug|x64
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Debug|x86.ActiveCfg = Debug|Win32
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Debug|x86.Build.0 = Debug|Win32
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Release|x64.ActiveCfg = Release|x64
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Release|x64.Build.0 = Release|x64
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Release|x86.ActiveCfg = Release|Win32
+		{682F1828-109C-4E25-9D0F-AD43EE0F49DE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
