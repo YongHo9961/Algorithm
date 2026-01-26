@@ -53,6 +53,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata24", "CodeKata24\Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata25", "CodeKata25\CodeKata25.vcxproj", "{8ED60B7E-3AA6-4752-8271-D97D0DAF2CA7}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata26", "CodeKata26\CodeKata26.vcxproj", "{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -261,6 +263,14 @@ Global
 		{8ED60B7E-3AA6-4752-8271-D97D0DAF2CA7}.Release|x64.Build.0 = Release|x64
 		{8ED60B7E-3AA6-4752-8271-D97D0DAF2CA7}.Release|x86.ActiveCfg = Release|Win32
 		{8ED60B7E-3AA6-4752-8271-D97D0DAF2CA7}.Release|x86.Build.0 = Release|Win32
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Debug|x64.ActiveCfg = Debug|x64
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Debug|x64.Build.0 = Debug|x64
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Debug|x86.Build.0 = Debug|Win32
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Release|x64.ActiveCfg = Release|x64
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Release|x64.Build.0 = Release|x64
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Release|x86.ActiveCfg = Release|Win32
+		{00DD6EA4-12B3-4238-8A7E-4DE6A5E795AC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
