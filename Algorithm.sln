@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata42", "CodeKata42\Co
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata43", "CodeKata43\CodeKata43.vcxproj", "{DE5E5A24-F915-4305-A842-3622313992BE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodeKata44", "CodeKata44\CodeKata44.vcxproj", "{0F80084A-D036-408B-A127-9C2422C58BB7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{DE5E5A24-F915-4305-A842-3622313992BE}.Release|x64.Build.0 = Release|x64
 		{DE5E5A24-F915-4305-A842-3622313992BE}.Release|x86.ActiveCfg = Release|Win32
 		{DE5E5A24-F915-4305-A842-3622313992BE}.Release|x86.Build.0 = Release|Win32
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Debug|x64.ActiveCfg = Debug|x64
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Debug|x64.Build.0 = Debug|x64
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Debug|x86.Build.0 = Debug|Win32
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Release|x64.ActiveCfg = Release|x64
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Release|x64.Build.0 = Release|x64
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Release|x86.ActiveCfg = Release|Win32
+		{0F80084A-D036-408B-A127-9C2422C58BB7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
